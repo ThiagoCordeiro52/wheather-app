@@ -55,7 +55,7 @@ The following tools were used in the construction of the project:
 ### :computer: Deploy
 
 <h4 align="center"> 
-	See the running project: <a href="wheather-app-mu.vercel.app">Wheather App</a>
+	See the running project: <a href="https://wheather-app-mu.vercel.app/">Wheather App</a>
 </h4>
 
 ---
