@@ -30,6 +30,7 @@ Project developed during a class on the [Manual do Dev](https://www.youtube.com/
 
 - [x] Form error handling
 - [x] Error modal for invalid cities
+- [x] Adding Typing with Typescript
 
 ---
 
