@@ -8,7 +8,7 @@ interface FetchDataProps {
 }
 
 export async function fetchData({ city, setIsValidCity }: FetchDataProps) {
-  const url = `http://api.weatherapi.com/v1/current.json?key=${KEY}&q=${city}&aqi=no&lang=pt`;
+  const url = `https://api.weatherapi.com/v1/current.json?key=${KEY}&q=${city}&aqi=no&lang=pt`;
 
   const fetchResponse = await fetch(url);
   if (fetchResponse.status !== 200) {
